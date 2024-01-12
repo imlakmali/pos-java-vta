@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author im Lucky
+ * @author im Lucky1
  */
 public class pointOfSales extends javax.swing.JFrame {
     
